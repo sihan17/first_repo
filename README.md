@@ -25,5 +25,5 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image of Northern Mockingbird.](https://en.wikipedia.org/wiki/Mockingbird#/media/File:Mimus_polyglottos1.jpg)
+![This is an image of Northern Mockingbird.](https://abirdsdelight.com/wp-content/uploads/2017/10/mockingbird-702804_1280-1024x667.jpg)
 
