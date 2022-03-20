@@ -1,4 +1,4 @@
-# This is a large heading
+# Sihan Wu
 
 ## This is a smaller heading
 
