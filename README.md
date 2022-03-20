@@ -1,19 +1,19 @@
-# This is a large heading
+# mockingbird
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+*Where* I come from and **where** do I live now?
 
-- This is
-- an unordered
-- list
+### Something I usually do lately 
 
-1. This is
-2. an ordered
-3. list
+- learning
+- listening to music
+- just watched the Magazin Royal :)
+
+### Some Languages
+1. Python
+2. others learnt in between
+3. C++
 
 Here is `some code` in the middle of a sentence.
 
@@ -25,6 +25,5 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image of Northern Mockingbird.](https://abirdsdelight.com/wp-content/uploads/2017/10/mockingbird-702804_1280-1024x667.jpg)
 
-nano README.md
